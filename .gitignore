@@ -7,4 +7,4 @@
 /out/
 *input*
 
-!day-1/test-input.txt
+!day-1/test-input-*.txt
