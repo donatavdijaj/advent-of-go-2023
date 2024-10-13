@@ -6,3 +6,5 @@
 /dist/
 /out/
 *input*
+
+!day-1/test-input.txt
